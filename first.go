@@ -3,7 +3,7 @@ package main
 import (
 	"math"
     "fmt"
-    "/cryptorandomizer"
+    "cryptorandomizer"
 )
 var(
 	raceAll = [6] string {"ork", "elf", "dwarf", "goblin", "human", "undead"}
