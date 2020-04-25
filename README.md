@@ -1,3 +1,3 @@
 # FieldTestRep
-Just for fooling around
-I dont know why 
+Well Hello Human, kraken is unleashed!
+
